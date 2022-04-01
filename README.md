@@ -1,5 +1,5 @@
-To jest repozytorium testowe z IO
-Będą tutaj próby dotyczące commitów
+To jest repozytorium z kalkulator z IO,
+znajdują tutaj próby dotyczące commitów a także funkcje kalkulatora
 
 
 Autor: Lukasz
